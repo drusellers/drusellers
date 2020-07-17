@@ -1,4 +1,4 @@
-![](/drusellers/drusellers/raw/main/img/logo.svg | width=300px)
+<img src="/drusellers/drusellers/raw/main/img/logo.svg" width="300px" />
 
 # Curiosity is Life
 
