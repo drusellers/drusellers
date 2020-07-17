@@ -1,4 +1,4 @@
-![](/drusellers/drusellersraw/main/img/logo.svg)
+![](/drusellers/drusellers/raw/main/img/logo.svg)
 
 # Curiosity is Life
 
