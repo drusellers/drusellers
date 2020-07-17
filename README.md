@@ -1,3 +1,5 @@
+![](/img/logo.svg)
+
 # Curiosity is Life
 
 <!--
