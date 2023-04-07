@@ -1,4 +1,4 @@
-<img src="/drusellers/drusellers/raw/main/img/logo.svg" width="300px" />
+<img src="https://raw.githubusercontent.com/drusellers/drusellers/main/img/logo.svg" width="300px" />
 
 # Curiosity is Life
 
